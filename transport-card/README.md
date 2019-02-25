@@ -26,7 +26,7 @@ type: 'custom:transport-card'
 
 This will simply display the two entites on top of each other like this:
 
-![](https://imgur.com/a/jg1oCOD.jpg)
+![](https://imgur.com/2l7nhTa.jpg)
 
 However you can customise each entity row with colours and icons to create illustrative views of your upcoming transport:
 
@@ -58,7 +58,7 @@ type: 'custom:transport-card'
 
 This will render like this:
 
-![](https://imgur.com/RvnfFBJ.jpg)
+![Fully edited transport card](https://imgur.com/RvnfFBJ.jpg)
 
 You can add any entities to this card - the current state will be shown on the right hand side where the times are in my examples above. However, to use the `show_mins` option the sensor has to be formatted as `HH:mm` in 24 hour time.
 

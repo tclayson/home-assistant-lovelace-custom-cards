@@ -135,10 +135,3 @@ class TransportCard extends HTMLElement {
 }
 
 customElements.define('transport-card', TransportCard);
-
-
-
-
-
-
-

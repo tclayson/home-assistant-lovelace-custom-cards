@@ -7,4 +7,4 @@ A collection of custom cards I've created for use in Home Assistant. Provided wi
 
 A card for displaying upcoming transport sensors with customiseable rows and icons.
 
-![](https://imgur.com/a/RpPxMMD.jpg)
+![Transport Card](https://imgur.com/RvnfFBJ.jpg)
